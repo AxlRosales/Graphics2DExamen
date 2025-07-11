@@ -11,6 +11,7 @@ package com.mycompany.graphics2dexamen;
 public class Graphics2DExamen {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Graficos form = new Graficos();
+        form.show();
     }
 }
